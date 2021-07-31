@@ -1,0 +1,6 @@
+A DVD ripper, DVD grabber or DVD extractor is a software designed to extract or “rip” raw digital audio (in a format commonly called CDDA) from a DVD to the system with a compatible extension. 
+Some all-in-one ripping programs can simplify the entire process by ripping and burning the audio to disc in one step, possibly re-encoding the audio on-the-fly in the process. 
+The ripping software tells the DVD drive’s firmware to read this data and parse out just the audio encoded samples. The software then dumps them into a MP4 or other formats, or feeds them to another codec to produce. Depending on the capabilities of the ripping software, ripping may be done on a track-by-track basis, or all tracks at once, or over a custom range. 
+The ripping software may also have facilities for detecting and correcting errors during or after the rip, as the process is not always reliable, especially when the DVD is damaged or defective.
+However, commercial DVDs are often encrypted preventing access to the files without using the ripping software’s decryption ability, which may not be legal to distribute or use. 
+DVD files are often larger than is convenient to distribute or copy to CD-R or ordinary (not dual-layer) DVD-R, so DVD ripping software usually offers the ability to re-encode the content, with some quality loss, so that it fits in smaller files.
